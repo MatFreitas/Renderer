@@ -1,5 +1,5 @@
-# Renderizador
-Renderizador base para o curso de Computação Gráfica
+# Renderer
+Base Renderer for Computer Graphics Course.
 
 Pré-requisitos:
 

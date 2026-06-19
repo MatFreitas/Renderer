@@ -1,5 +1,5 @@
 # Renderer
-Base Renderer for Computer Graphics Course.
+Base Renderer for Computer Graphics Course. A complete rasterization pipeline implemented from scratch, including: vertex transformations, clipping, attribute interpolation, and shading
 
 Pré-requisitos:
 

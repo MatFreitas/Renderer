@@ -1,40 +1,40 @@
 # Renderer
 Base Renderer for Computer Graphics Course. A complete rasterization pipeline implemented from scratch, including: vertex transformations, clipping, attribute interpolation, and shading
 
-Pré-requisitos:
+Prerequisites:
 
 ```sh
 pip3 install -r requirements.txt
 ````
 
-Uso:
+Usage:
 ```sh
   python3 renderizador.py
 ````
 
-Opções
-- "-i", "--input": arquivo X3D de entrada
-- "-o", "--output": arquivo 2D de saída (imagem)
-- "-w", "--width": resolução horizontal
-- "-h", "--height": resolução vertical
-- "-q", "--quiet": não exibe janela
+Options:
+- -i, --input: input X3D file
+- -o, --output: output 2D file (image)
+- -w, --width: horizontal resolution
+- -h, --height: vertical resolution
+- -q, --quiet: does not display a window
 
-## Exemplos
+## Examples
 
-Para rodar os exemplos:
+To run the examples:
 
 ```sh
   python3 exemplos.py
 ````
 
-Opções:
-- número ou índice do exemplo
+Options:
+- number or index of the example
 
-Visualizar exemplos na web:
+View examples on the web:
 
 [Exemplos](https://lpsoares.github.io/Renderizador/)
 
-Lista de exemplos:
+Examples list:
 
 0. pontos
 1. linhas
